@@ -1,6 +1,8 @@
 {
-  "title": "AeosChain",
-  "subtitle": "A New Era of Metaphase Blockchain",
-  "getStarted": "Get Started",
-  "readWhitepaper": "Read Whitepaper"
+  "menu": {
+    "home": "Home",
+    "about": "About",
+    "whitepaper": "Whitepaper",
+    "contact": "Contact"
+  }
 }

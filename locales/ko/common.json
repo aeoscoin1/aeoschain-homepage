@@ -1,6 +1,8 @@
 {
-  "title": "에오스체인",
-  "subtitle": "초월 위상의 메타페이즈 블록체인 시대",
-  "getStarted": "시작하기",
-  "readWhitepaper": "백서 읽기"
+  "menu": {
+    "home": "\ud648",
+    "about": "\uc18c\uac1c",
+    "whitepaper": "\ubc31\uc11c",
+    "contact": "\ubb38\uc758"
+  }
 }

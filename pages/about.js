@@ -6,7 +6,7 @@ export default function Page() {
   return (
     <>
       <Header />
-      <p className='text-center mt-10'>Welcome to AeosChain</p>
+      <p className='text-center mt-10'>About AeosChain</p>
     </>
   )
 }
